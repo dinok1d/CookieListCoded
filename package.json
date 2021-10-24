@@ -1,0 +1,14 @@
+{
+  "name": "CookieListCoded",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:dinok1d/CookieListCoded.git",
+  "author": "<hassandak1d@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
